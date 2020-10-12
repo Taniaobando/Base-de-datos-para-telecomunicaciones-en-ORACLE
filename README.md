@@ -1,4 +1,5 @@
-# Bases-2
+# Base-de-datos-para-telecomunicaciones-en-ORACLE
+
 Curso: Implementación de Bases de Datos 2019-2
 Lenguaje: SQL Oracle
 
